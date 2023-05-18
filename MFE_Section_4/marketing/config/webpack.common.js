@@ -8,10 +8,10 @@ module.exports = {
                     loader: 'babel-loader',
                     options: {
                         presets: ['@babel/preset-react', '@babel/preset-env'],
-                        plugins: ['@babel/plugin-transfrom-runtime']
+                        plugins: ['@babel/plugin-transform-runtime']
                     }
                 }
             }
         ]
     }
-}
+};
