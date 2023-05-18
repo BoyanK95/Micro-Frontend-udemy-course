@@ -25,25 +25,27 @@ Clone or download the course repository from the following link: Course Reposito
 
 Install the necessary dependencies using Yarn package manager. Run the following command in your terminal:
 
-bash
-Copy code
-yarn install
-Start the development server to run the application locally. Use the following command:
-
-bash
-Copy code
+## Copy code
+```bash
+$ yarn install
+//Start the development server to run the application locally. Use the following command:
+```
+### Copy code
+```bash
 yarn start
 This command will start the application and provide you with a local development server. Open your web browser and navigate to http://localhost:8080 to access the application.
+```
 
 Follow the course content and exercises to learn about Micro-Frontends and implement the concepts in your project.
 
 Building the Application
 To build the application for production, you can use the following command:
 
-bash
-Copy code
+### Copy code
+```bash
 yarn build
 This command will trigger the production build process using Webpack. The optimized and minified code will be generated in the dist directory.
+```
 
 ## Target Audience
 This course is suitable for web developers who are familiar with HTML, CSS, and JavaScript and want to explore advanced front-end architecture patterns. Whether you are a beginner or an experienced developer looking to level up your skills, this course will provide you with the knowledge and practical experience needed to implement Micro-Frontends in your projects.
