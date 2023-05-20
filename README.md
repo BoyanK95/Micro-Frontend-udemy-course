@@ -33,7 +33,7 @@ $ yarn install
 ### Copy code
 ```bash
 yarn start
-This command will start the application and provide you with a local development server. Open your web browser and navigate to http://localhost:8080 to access the application.
+//This command will start the application and provide you with a local development server. Open your web browser and navigate to http://localhost:8080 to access the application.
 ```
 
 Follow the course content and exercises to learn about Micro-Frontends and implement the concepts in your project.
@@ -44,7 +44,7 @@ To build the application for production, you can use the following command:
 ### Copy code
 ```bash
 yarn build
-This command will trigger the production build process using Webpack. The optimized and minified code will be generated in the dist directory.
+//This command will trigger the production build process using Webpack. The optimized and minified code will be generated in the dist directory.
 ```
 
 ## Target Audience
